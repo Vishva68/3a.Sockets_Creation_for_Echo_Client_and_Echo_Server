@@ -25,8 +25,7 @@ while True:
     except KeyError:
         c.send("Not Found".encode()) 
 
-```
-```
+
 SERVER
 
 import socket
